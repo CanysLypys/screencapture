@@ -113,7 +113,7 @@ end, "blob")
 
 ## Screenshot Basic compatibility
 
-### This is NOT recommend to use, as you risk expsoing tokens to clients.
+### This is NOT recommend to use, as you risk exposing tokens to clients.
 
 ### requestScreenshotUpload (client-side export)
 
